@@ -1,4 +1,4 @@
-<h1 align="center">Web framework code comparison</h1>
+<h1 align="center">Frontend frameworks code comparison</h1>
 
 <div align="center">
 
@@ -8,9 +8,9 @@
 
 </div>
 
-Comparison of different approaches in writing web applications. Based on React, Angular, AngularJS and Vue.js. This comparison is useful when migrating between frameworks or switching projects often.
+Comparison of different approaches in writing web applications. Based on React, Angular, AngularJS and Vue.js. It is especially useful when migrating between frameworks or switching projects often.
 
-All examples follow the current best practices and conventions that are used inside the community of the given framework. Angular code is written in TypeScript.
+All examples follow the current best practices and conventions that are used inside the community of a given framework. Angular code is written in TypeScript.
 
 ### :warning: **Work in progress** :warning:
 
